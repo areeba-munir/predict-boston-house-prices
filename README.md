@@ -15,6 +15,12 @@ This project uses Multivariable Linear Regression to estimate residential proper
 * **Education Impact:** A higher student-to-teacher ratio (PTRATIO) negatively impacts house prices.
 * **Pollution:** Nitric oxide levels (NOX) show a strong negative correlation with distance to employment centers.
 
+### 🚀 Technologies Used
+* Python
+* Pandas & NumPy
+* Seaborn & Plotly
+* Scikit-Learn
+
 ### 🚀 How to Run
 1. Clone the repo.
 2. Install dependencies: `pip install pandas numpy seaborn scikit-learn plotly`
